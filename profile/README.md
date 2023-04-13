@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td>
-      <img src="gas-station.png" alt="imagem-posto">
+      <img src="https://github.com/sempreinfo/sempreinfo/blob/main/gas-station.png" alt="imagem-posto">
     </td>
     <td>
       <div>
@@ -47,7 +47,7 @@
       </div>
     </td> 
     <td>
-      <img src="food-software.png" alt="conveniência">
+      <img src="https://github.com/sempreinfo/sempreinfo/blob/main/food-software.png" alt="conveniência">
     </td>
   </tr>
 </table>
